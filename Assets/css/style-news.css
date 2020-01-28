@@ -1,0 +1,15 @@
+.main-bg{
+    background-image: url("../images/pexels-photo-1939485.jpeg");
+    padding: 5% 10%;
+  }
+  .form-bg{
+    background-color: #ffffff;
+    padding: 3% 5%;
+  }
+  .footer{
+    background-color: #3d3c3c;
+    color: oldlace;
+    text-align: center;
+    padding: 5% 10%;
+    border-top: #4aaaa5 ;
+  }
